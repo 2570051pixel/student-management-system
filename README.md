@@ -6,7 +6,7 @@ A Spring Boot REST API for managing student records with CRUD operations.
 - Get student by ID
 - Update student details
 - Delete a student
-## Technology Used
+## Technologies Used
 - Java
 - Spring Boot
 - Spring Data JPA
